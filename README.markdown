@@ -12,6 +12,6 @@ brackets with url create a link
 
 because this is a markdown file, we have to give it the right extension for a markdown file by moving the README file with 
 
-git #mv README.rdoc README.markdown
+git mv README.rdoc README.markdown
 
 this changes the README.rdoc file to README.markdown file
